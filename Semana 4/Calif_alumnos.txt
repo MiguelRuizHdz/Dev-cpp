@@ -1,0 +1,35 @@
+Lista de Alumnos
+
+
+Nombre: Miguel
+Apellido: Ruiz
+Edad: 21
+Matricula: 7827373
+Materia: dev
+Calificacion: 100
+
+
+Nombre: Jaime
+Apellido: Perez
+Edad: 21
+Matricula: 821802
+Materia: dev
+Calificacion: 100
+
+
+Nombre: Lucas
+Apellido: Hdz
+Edad: 21
+Matricula: 318038
+Materia: dev
+Calificacion: 99
+
+
+Nombre: Martha
+Apellido: Cruz
+Edad: 18
+Matricula: 81821
+Materia: dev
+Calificacion: 98
+
+
